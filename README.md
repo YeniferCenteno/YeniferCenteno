@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YeniferCenteno
+- 👀 I’m interested in all about desing
+- 🌱 I’m currently learning WPF and C#
+- 💞️ I’m really love the code
